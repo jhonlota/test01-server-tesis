@@ -16,5 +16,4 @@ $ docker run -d -p 81:80 3301:3306 --name name-container -v "$PWD":/var/www/html
 
 * `Captura de pantalla` 
 ## Prueba apache
-![alt tag](https://docs.google.com/drawings/d/0BwA908KGACi0R0wxVnZMaTJKeWc/pub?w=483&h=100)
-![alt tag](https://drive.google.com/file/d/0BwA908KGACi0amNFTW9FanZKWE0/view?usp=sharing)
+![alt tag](https://docs.google.com/drawings/d/1dEQl2bB06Jlr6nDXCndcWYLcpSzJr5Knyhg28d_xBgk/pub?w=352&h=137)
