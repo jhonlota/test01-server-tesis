@@ -5,15 +5,16 @@
 * `Base` El SO utilizado para esta demostracion es Ubuntu Server LTS X64
 
 * `Instalación` Se descargan los archivos contenidos es esta carpeta y se ejecutan los siguientes comandos.
-
-* $ docker-compose build
-* $ docker-compose up -d
-
+```c
+$ docker-compose build
+$ docker-compose up -d
+```
 * `Instalación opcional` Instalacion sin necesidad de descargar los archivos contenidos en esta carpeta
+```c
+$ docker pull php:5.6-apache ó docker build
 
-* $ docker pull php:5.6-apache ó docker build
-* $ docker run -d -p 81:80 3301:3306 --name name-container -v "$PWD":/var/www/html php:5.6-apache -e MYSQL_ROOT_PASSWORD=123456 -d mysql:5.7
-
+$ docker run -d -p 81:80 3301:3306 --name name-container -v "$PWD":/var/www/html php:5.6-apache -e MYSQL_ROOT_PASSWORD=123456 -d mysql:5.7
+```
 * `Captura de pantalla` 
 
 ## Prueba apache
