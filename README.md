@@ -2,8 +2,8 @@
 
 ## Contenido de este repositorio
 * `Enlaces` 
-#### Presentacion [I'm an inline-style link](https://docs.google.com/presentation/d/1uyyC_uwKlR9I28dycw7c0DT78APXoa4BdhJuZs_e3To/edit?usp=sharing)
-#### Video bash [I'm an inline-style link](https://asciinema.org/a/d6z23b0zixexiw49htorpwmke)
+[Presentación](https://docs.google.com/presentation/d/1uyyC_uwKlR9I28dycw7c0DT78APXoa4BdhJuZs_e3To/edit?usp=sharing)
+[Video bash](https://asciinema.org/a/d6z23b0zixexiw49htorpwmke)
 * `Base` El SO utilizado para esta demostracion es Ubuntu Server LTS X64
 
 * `Instalación docker`
