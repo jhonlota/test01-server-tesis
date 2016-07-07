@@ -1,3 +1,3 @@
-FROM php:5-6-apache
-COPY src/ /var/www/html/
-COPY ./info.php /var/www/html/info.php
+FROM php:5.6-apache
+COPY "$PWD" /var/www/html/
+EXPOSE 80 3306
